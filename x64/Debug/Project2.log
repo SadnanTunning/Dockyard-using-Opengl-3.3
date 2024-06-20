@@ -1,0 +1,170 @@
+﻿  main.cpp
+C:\Users\trust\Desktop\Docyard Codes - Copy\sphere.h(171,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\trust\Desktop\Docyard Codes - Copy\sphere.h(172,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\trust\Desktop\Docyard Codes - Copy\sphere.h(174,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\trust\Desktop\Docyard Codes - Copy\cylinder.h(149,24): warning C4101: 'normalX': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\trust\Desktop\Docyard Codes - Copy\cylinder.h(149,33): warning C4101: 'normalY': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\trust\Desktop\Docyard Codes - Copy\cylinder.h(149,18): warning C4101: 'y': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\trust\Desktop\Docyard Codes - Copy\cylinder.h(149,42): warning C4101: 'normalZ': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(178,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(319,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(505,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(509,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(524,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(528,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(566,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(566,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(566,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(575,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(575,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(575,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(583,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(583,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(583,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(591,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(591,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(591,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(600,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(600,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(600,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(608,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(608,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(608,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(661,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(682,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(682,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(682,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(698,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(699,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(741,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(741,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(741,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(747,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(747,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(747,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(753,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(753,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(753,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(758,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(758,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(758,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(764,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(764,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(764,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(769,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(769,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(769,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(773,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(773,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(773,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1062,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1062,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1062,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1099,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1099,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1099,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1162,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1162,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1168,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1168,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1168,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1155,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1155,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1181,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1181,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1181,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1186,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1186,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1186,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1191,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1191,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1191,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1196,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1196,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1196,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1202,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1202,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1202,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1207,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1207,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1207,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1212,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1212,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1212,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1217,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1217,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1217,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1222,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1222,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1222,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1227,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1227,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1227,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1234,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1234,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1234,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1238,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1238,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1238,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1243,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1243,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1243,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1248,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1248,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1248,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1255,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1255,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1255,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1260,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1260,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1260,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1265,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1265,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1265,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1270,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1270,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1270,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1276,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1276,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1276,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1175,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1175,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1313,47): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1314,52): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1315,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1317,73): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1318,73): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1319,73): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1320,73): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1321,73): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\trust\Desktop\Docyard Codes - Copy\main.cpp(1322,73): warning C4305: '-=': truncation from 'double' to 'float'
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+  Project2.vcxproj -> C:\Users\trust\Desktop\Docyard Codes - Copy\x64\Debug\Project2.exe
